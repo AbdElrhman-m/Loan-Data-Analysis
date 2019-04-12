@@ -33,7 +33,7 @@ For the presentation, I focus on the insights that helping person to choose When
 >  best length of the loan expressed in months.
 
 ## What do u need to install for running this Ipython notebook?
->* python 3
+* python 3
 * jupyter notebooks 
 * anaconda
 * pandas
